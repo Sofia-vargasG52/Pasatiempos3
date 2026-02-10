@@ -1,0 +1,15 @@
+body{
+    background-color: rgba(161, 119, 209, 0.137);
+}
+
+header{
+    background-color: rgba(59, 123, 184, 0.205);
+}
+
+h1 {
+    border: dotted black 10px;
+}
+
+footer {
+    background-color: rgba(59, 123, 184, 0.205);
+}
